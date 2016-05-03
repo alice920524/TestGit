@@ -11,5 +11,9 @@ public class HelloGitForTest {
 		System.out.println("Reply for second request!");
 		
 	}
+	
+	public void study() {
+		System.out.println("Good Good Study, Day Day Up!");
+	}
 
 }
