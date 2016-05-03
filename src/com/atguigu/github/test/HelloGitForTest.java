@@ -12,8 +12,11 @@ public class HelloGitForTest {
 		
 	}
 	
+	public void study() {
+		System.out.println("Good Good Study, Day Day Up!");
+	}
+	
 	public void sleep() {
 		System.out.println("If I have enough time, I will stay in my bed for a day!");
-	}
 
 }
