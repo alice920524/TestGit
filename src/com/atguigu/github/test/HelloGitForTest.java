@@ -18,5 +18,6 @@ public class HelloGitForTest {
 	
 	public void sleep() {
 		System.out.println("If I have enough time, I will stay in my bed for a day!");
+	}
 
 }
