@@ -8,6 +8,7 @@ public class HelloGitForTest {
 		System.out.println("Hello Github for Test, Second!");
 		System.out.println("Hello Github for Test, Third!");
 		System.out.println("Reply for first request!");
+		System.out.println("Reply for second request!");
 		
 	}
 
